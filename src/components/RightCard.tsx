@@ -48,7 +48,8 @@ const RightCard = () => {
         <Box className="subtitle" sx={{width:"50%",display:"flex",justifyContent:"center"}}>
             <Typography variant="subtitle2" sx={{textAlign:"center",}}>
                 free your mind for something more 
-                <Typography variant="subtitle2">important</Typography>
+                <br/>
+      important
             </Typography>
         </Box>
       <TopRec>

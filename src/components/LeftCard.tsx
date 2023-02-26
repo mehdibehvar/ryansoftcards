@@ -62,7 +62,7 @@ const LeftCard = () => {
         <Box sx={{ width: 100 }}>
           <Typography variant="subtitle2">
             Because your business needs
-            <Typography variant="subtitle2">a lot more</Typography>
+          a lot more
           </Typography>
         </Box>
         <Box

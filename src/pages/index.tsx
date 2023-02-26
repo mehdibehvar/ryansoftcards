@@ -10,8 +10,8 @@ import { NextPageWithLayout } from "./_app";
 const Home: NextPageWithLayout = () => {
   return (
     <>
- <Container maxWidth="lg" sx={{backgroundColor:"#F0F0F0"}}>
- <Grid container spacing={2} sx={{backgroundColor:"black",px:"50px",py:"100px"}}>
+ <Container maxWidth="lg" >
+ <Grid container  spacing={2} sx={{backgroundColor:"black",px:"50px",py:"50px",mt:3}}>
   <Grid item xs={12} md={8}>
   <LeftCard/>
   </Grid>
